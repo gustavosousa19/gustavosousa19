@@ -13,7 +13,7 @@ Eu sou Gustavo Sousa,sou um programador Front End, atualmente estou aprendendo e
     <a href="https://www.instagram.com/gust4vo_beckham/">
       <img align="left" alt="ícone do instagram" width="22px" src="https://img.icons8.com/?size=100&id=85154&format=png&color=000000" />
     </a>
-    <a href="https://www.linkedin.com/in/gustavo-sousa-970221347/">
+    <a href="https://www.linkedin.com/in/gustavo-sousa-pereira-/">
       <img align="left" alt="ícone do linkedin" width="22px" src="https://img.icons8.com/?size=100&id=98960&format=png&color=000000" />
     </a>
   </p>
